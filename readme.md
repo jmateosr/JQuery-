@@ -17,7 +17,7 @@ You will learn basic JavaScript syntax, which includes manipulating data types (
 
 ###How does this Help my Career?
 
--It's a resume. Resumes help you get jobs.
--JavaScript is the language of web development.
--JavaScript lets you turn static web pages into dynamic applications.
--Since it runs on normal web browsers, JavaScript is one of the most accessible and flexible programming languages.
+* It's a resume. Resumes help you get jobs.
+* JavaScript is the language of web development.
+* JavaScript lets you turn static web pages into dynamic applications.
+* Since it runs on normal web browsers, JavaScript is one of the most accessible and flexible programming languages.
