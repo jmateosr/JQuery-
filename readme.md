@@ -139,3 +139,18 @@ The resume has four distinct sections: work, education, projects and a header wi
 * Your resume should also console.log() information about click locations. On line 90 in helper.js, you’ll find a jQuery onclick handler that you’ll need to modify to work with the logClicks(x,y) function above it.
 
 * It’s possible to make additional information show up when you click on the pins in the map. Check out line 174 in helper.js and the Google Maps API to get started.
+
+##Submission
+
+When you're ready to submit your project go back to the Portal, click on Project 2, and follow the instructions to submit.
+
+* Start by creating a text file with a list of websites, books, forums, blog posts, Github repositories etc. that you referred to or used in this submission (Add N/A if you did not use such resources).
+
+* If you want to submit your code through a "Link to Project", upload your project files onto Github and send us the link. We hope you submit using your Github because that is how professionals submit their work.
+
+* If you instead want to submit your code through "Upload a Zip", compress your project directory, and submit that zip file.
+
+* You should be submitting: (a) Resources and (b) Project files.
+It can take us up to 2 weeks to evaluate the project so keep checking back for updates.
+
+If you are having any problems submitting your project or wish to check on the status of your submission, please email us at support@udacity.com.
